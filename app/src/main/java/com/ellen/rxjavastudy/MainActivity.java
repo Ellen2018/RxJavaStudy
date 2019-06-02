@@ -28,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
         rxjava3();
 
         //背压策略->被观察者发送消息速度和观察者处理消息速度不匹配采用的一种解决策略
+        rxjava4();
+    }
+
+    private void rxjava4() {
     }
 
     private void rxjava1() {
